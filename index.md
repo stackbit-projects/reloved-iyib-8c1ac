@@ -19,7 +19,6 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: Re-Loved
-  description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
       value: website
