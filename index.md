@@ -4,10 +4,10 @@ has_intro: true
 intro_content: >
   Re-loved is about raising environmental awareness and highlighting the dark
   side in the fashion industry. The aim is to reduce clothing waste, reuse and
-  recycle clothing. encouraging the use of second hand clothing as well as
-  donating or even selling unwanted clothes. A big change can be made if we
-  start to implement these practices. My name is Iyi Bolarin and my goal is to
-  create a more sustainable fashion industry.
+  recycle clothing. Encouraging the use of second hand clothing as well as
+  donating and selling unwanted clothes. A big change can be made if we start to
+  implement these practices. My name is Iyi Bolarin and my goal is to create a
+  more sustainable fashion industry.
 intro_actions:
   - label: Learn More
     url: /about
